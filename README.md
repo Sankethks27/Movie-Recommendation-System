@@ -305,17 +305,14 @@ Validated using:
 ```
 Movie Recommendation System/
 │
-├── 📁 Dataset/
-│   ├── Books.Zip
-|   ├── Ratings.csv
-|   ├── Users.csv
-│   └── recsus_taxonomy2.png
-│
 ├── 📁 Final Report/
 │   └── Final Report.pdf
 |
 ├── 📁 Notebook/
 │   └── Book Recommendation System.ipynb
+|
+├── 📁 Dataset/
+│   └── https://drive.google.com/drive/folders/1D499pNB66Lb18i93nexHvGFQ38vkw6nc
 |
 └── 📁 README.md
 ```
