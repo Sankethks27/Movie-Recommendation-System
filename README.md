@@ -1,8 +1,15 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 A Machine Learning-based Movie Recommendation System built using the Rotten Tomatoes Movies and Movie Reviews datasets. The project leverages Content-Based Filtering techniques to recommend movies that are similar to a selected movie based on genres, directors, writers, ratings, and review information.
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommender%20System-green)
 
 ## 📌 Project Overview
 
@@ -295,62 +302,22 @@ Validated using:
 
 ## 📁 Project Structure
 
-```text
-Movie-Recommendation-System/
-│
-├── Dataset/
-│   ├── rotten_tomatoes_movies.csv
-│   └── rotten_tomatoes_movie_reviews.csv
-│
-├── notebooks/
-│   └── Movie_Recommendation.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── recommendation.py
-│   └── evaluation.py
-│
-├── reports/
-│   └── Final_Report.pdf
-│
-├── images/
-│   ├── genre_distribution.png
-│   ├── correlation_heatmap.png
-│   └── wordcloud.png
-│
-├── requirements.txt
-├── README.md
-└── app.py
 ```
-
----
-
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/movie-recommendation-system.git
-cd movie-recommendation-system
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Project
-
-```bash
-python app.py
-```
-
-or
-
-```bash
-jupyter notebook
+Movie Recommendation System/
+│
+├── 📁 Dataset/
+│   ├── Books.Zip
+|   ├── Ratings.csv
+|   ├── Users.csv
+│   └── recsus_taxonomy2.png
+│
+├── 📁 Final Report/
+│   └── Final Report.pdf
+|
+├── 📁 Notebook/
+│   └── Book Recommendation System.ipynb
+|
+└── 📁 README.md
 ```
 
 ---
@@ -367,26 +334,19 @@ jupyter notebook
 
 ---
 
-## 👨‍💻 Contributors
+## 🤝🏿 **Contributing**
 
-* Your Name
-* Team Members (if applicable)
+This project represents my personal learning in Data Science. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on data science projects.
 
----
+## 📧 **Contact**
 
-## 📜 License
-
-This project is developed for academic and educational purposes.
-
----
-
-## 🙏 Acknowledgements
-
-* Rotten Tomatoes Dataset
-* Scikit-Learn
-* Surprise Library
-* Python Open Source Community
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub.
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
+
+---
